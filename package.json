@@ -12,7 +12,7 @@
     "feedparser": "^2.1.0",
     "request": "^2.81.0",
     "striptags": "^3.0.1",
-    "underscore": "^1.8.3",
+    "underscore": "^1.12.1",
     "uuid": "^3.0.1"
   }
 }
