@@ -11,7 +11,7 @@
   "dependencies": {
     "feedparser": "^2.1.0",
     "request": "^2.81.0",
-    "striptags": "^3.0.1",
+    "striptags": "^3.2.0",
     "underscore": "^1.12.1",
     "uuid": "^3.0.1"
   }
